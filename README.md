@@ -55,14 +55,24 @@ First of all, set the runtime to GPU
 Run the scripts in the cells. They install the requirements
 and the NVIDIA apex tool.
 
+![install](imgs/install.png "How to install")
+
 Run the cell after the Connect your Colab notebook to your Drive
 section, so your Drive will be connected to your notebook.
+
+![Drive](imgs/connect.png "How to connect")
 
 You can access your corpus.csv uploaded into the folder
  Colab/data as:
  ```shell script
 /content/drive/Colab/data/corpus.csv
 ```
+
+You can upload your training data to Drive, and you
+can save your models and every intermediate data you
+produce during the project into your Drive.
+
+## Notes
 
 Google provides you with a free notebook with the following
 limitations.
@@ -75,7 +85,21 @@ limitations.
 This means you have to set up your environment whenever
 your Notebook gets disconnected.
 
-## Notes
+## To the students
+
 Please fell free to submit an issue or send a pull request
 if you find something buggy or if you think that something
 needs further clarifications.
+
+## MIT License
+> Copyright 2020 Orsolya Putz, Zoltan Varju
+
+> Permission is hereby granted, free of charge, to any person obtaining a
+ copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+> The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
