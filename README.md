@@ -29,8 +29,20 @@ jupyter notebook
 ```
 Don't forget to set your kernel as the picture shows
 below.
-![A picture showing how to set your kernel in Jupyter Notebooks](imgs/notebook.png "Logo Title Text 1")
+![A picture showing how to set your kernel in Jupyter Notebooks](imgs/notebook.png "How to kernel")
 
 Now, you are ready to work through the project! Happy hacking!
 
 ## Using Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/Colab_growth_hacking_example.ipynb)
+Click on the badge above to open our notebook in Colab.
+
+Save it to your Google Drive. 
+![Save2drive](imgs/save2drive.png "How to save")
+
+First of all, set the runtime to GPU
+
+![Colab01](imgs/colab01.png "How to GPU")
+![Colab02](imgs/colab02.png "How to GPU 2")
+![Colab03](imgs/colab03.png "How to GPU3")
+
