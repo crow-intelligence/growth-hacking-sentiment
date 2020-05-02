@@ -1,12 +1,14 @@
 # Growth Hacking with NLP and Sentiment Analysis
-This repo is made....
+This repo was made to the liveProject entitled Growth Hacking with NLP and
+ Sentiment Analysis.
+ 
 
 ## Install the dependencies
 Make a virtual environment and install the dependencies:
 ```shell script
 pip install -r requirements.txt
 ```
-Download data needed for the dictionary based sentiment.
+Download data needed for the dictionary based sentiment analyzer.
 Start Python in your virtual environment.
 ```Python
 import nltk
@@ -30,7 +32,7 @@ jupyter notebook
 ```
 Don't forget to set your kernel as the picture shows
 below.
-![A picture showing how to set your kernel in Jupyter Notebooks](imgs/notebook.png "How to kernel")
+![A picture showing how to set your kernel in Jupyter Notebook](imgs/notebook.png "How to kernel")
 
 Now, you are ready to work through the project! Happy hacking!
 
@@ -43,34 +45,34 @@ Save it to your Google Drive.
 ![Save2drive](imgs/save2drive.png "How to save")
 
 This step makes a Colab folder on your drive. Navigate
-into this folder and make a data subfolder. Upload your
+to this folder and make a data subfolder. Upload your
 data files into this folder. 
 
-First of all, set the runtime to GPU
+First of all, set the runtime to GPU.
 
-![Colab01](imgs/colab01.png "How to GPU")
-![Colab02](imgs/colab02.png "How to GPU 2")
-![Colab03](imgs/colab03.png "How to GPU3")
+![Colab01](imgs/colab01.png "How to set up GPU")
+![Colab02](imgs/colab02.png "How to set up GPU 2")
+![Colab03](imgs/colab03.png "How to set up GPU3")
 
 Run the scripts in the cells. They install the requirements
 and the NVIDIA apex tool.
 
 ![install](imgs/install.png "How to install")
 
-Run the cell after the Connect your Colab notebook to your Drive
+Run the cell after the "Connect your Colab notebook to your Drive"
 section, so your Drive will be connected to your notebook.
 
 ![Drive](imgs/connect.png "How to connect")
 
 You can access your corpus.csv uploaded into the folder
- Colab/data as:
+ "Colab/data" as:
  ```shell script
-/content/drive/Colab/data/corpus.csv
+/content/drive/My Drive/Colab/data/corpus.csv
 ```
 
-You can upload your training data to Drive, and you
-can save your models and every intermediate data you
-produce during the project into your Drive.
+You can upload your training data to Drive. You
+can also save your models and every intermediate data you
+produce during the project to your Drive.
 
 ## Notes
 
@@ -87,9 +89,8 @@ your Notebook gets disconnected.
 
 ## To the students
 
-Please fell free to submit an issue or send a pull request
-if you find something buggy or if you think that something
-needs further clarifications.
+Please feel free to submit an issue or send a pull request
+if you find something buggy or if you need further clarifications.
 
 ## MIT License
 > Copyright 2020 Orsolya Putz, Zoltan Varju
