@@ -1,0 +1,16 @@
+wheel
+altair
+imbalanced-learn
+imblearn
+Keyness
+nltk
+numpy
+pandas
+Pillow
+scikit-learn
+scipy
+simpletransformers
+tokenizers==0.5.2
+torch
+torchvision
+transformers
