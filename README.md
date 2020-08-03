@@ -95,13 +95,16 @@ limitations.
 This means you have to set up your environment whenever
 your Notebook gets disconnected.
 
-## Reference implementation
+## Reference implementations
 You can find the reference implementations for 
 milestones 1, 2, and 3 in the src folder as Python
 scripts. You can find the reference
 implementations for milestones 4 & 5 in the
-notebooks folder.
-
+notebooks folder. Also, you can open the
+notebooks in Colab via clicking the badges
+below.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/Colab_growth_hacking_example.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/Colab_growth_hacking_example.ipynb)
 We tested the code with Python 3.6, 3.7 and
 3.8 under Linux (Ubuntu 18.04). The reference
 implementation was made with vanilla Python 3.8
