@@ -117,9 +117,17 @@ below.
 + Milestone 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/notebooks/nn_based_sentiment.ipynb)
 + Milestone 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/notebooks/final_report.ipynb)
 
+To be able to run the notebooks on Colab,
+you have to upload the data folder to
+your Google Drive and possibly you have to
+modify the path to the data in your
+notebooks. Please read the [section on using Colab](https://github.com/crow-intelligence/growth-hacking-sentiment#using-colab)
+before running the reference implementions.
+
 We tested the code with Python 3.6, 3.7 and
 3.8 under Linux (Ubuntu 18.04). The reference
 implementation was made with vanilla Python 3.8
+
 
 ## To the students
 
