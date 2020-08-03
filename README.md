@@ -1,7 +1,15 @@
 # Growth Hacking with NLP and Sentiment Analysis
-This repo was made to the liveProject entitled Growth Hacking with NLP and
- Sentiment Analysis.
- 
+This repo was made to the liveProject
+[Growth Hacking with NLP and Sentiment Analysis](https://liveproject.manning.com/).
+
+## Data
+As you can see in our ```.gitignore``` file, the
+repo needs a ```data``` folder. You can find our
+data folder [here](https://drive.google.com/drive/folders/1rwd7hsZxZJdSQ7TP9CHgK9-qM20AJyib?usp=sharing).
+NB! Here we provide a reference implementation,
+your folder structure and the content of the
+data folder (even its name) may be different 
+from ours.
 
 ## Install the dependencies
 Make a virtual environment and install the dependencies:
@@ -86,6 +94,17 @@ limitations.
 
 This means you have to set up your environment whenever
 your Notebook gets disconnected.
+
+## Reference implementation
+You can find the reference implementations for 
+milestones 1, 2, and 3 in the src folder as Python
+scripts. You can find the reference
+implementations for milestones 4 & 5 in the
+notebooks folder.
+
+We tested the code with Python 3.6, 3.7 and
+3.8 under Linux (Ubuntu 18.04). The reference
+implementation was made with vanilla Python 3.8
 
 ## To the students
 
