@@ -2,6 +2,16 @@
 This repo was made to the liveProject
 [Growth Hacking with NLP and Sentiment Analysis](https://liveproject.manning.com/).
 
+## Table of Contents
+* [Data](#data)
+* [Install the dependencies](#install-the-dependencies)
+* [Using Jupyter Notebooks](#using-jupyter-notebooks)
+* [Using Colab](#using-colab)
+* [Notes](#notes)
+* [Reference implementations](#reference-implementations)
+* [To the students](#to-the-students)
+* [MIT License](#mit-license)
+
 ## Data
 As you can see in our ```.gitignore``` file, the
 repo needs a ```data``` folder. You can find our
@@ -103,8 +113,10 @@ implementations for milestones 4 & 5 in the
 notebooks folder. Also, you can open the
 notebooks in Colab via clicking the badges
 below.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/Colab_growth_hacking_example.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/Colab_growth_hacking_example.ipynb)
+
++ Milestone 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/notebooks/nn_based_sentiment.ipynb)
++ Milestone 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/crow-intelligence/growth-hacking-sentiment/blob/master/notebooks/final_report.ipynb)
+
 We tested the code with Python 3.6, 3.7 and
 3.8 under Linux (Ubuntu 18.04). The reference
 implementation was made with vanilla Python 3.8
